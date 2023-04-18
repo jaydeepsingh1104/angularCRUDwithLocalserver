@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "admin user",
+      "password": "Admin@123",
+      "email": "admin@gmail.com",
+      "gender": "female",
+      "role": "",
+      "isactive": true
+    },
+     {
+      "id": "testuser",
+      "name": "Test User",
+      "password": "Test@1234",
+      "email": "test@in.com",
+      "gender": "male",
+      "role": "user",
+      "isactive": true,
+      "address":{
+        "area":"chennai"
+      }
+    }
+  ]
+}
